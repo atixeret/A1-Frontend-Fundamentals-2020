@@ -5,7 +5,7 @@ de `Matcha`? ¿Qué peso jerárquico y por ende qué etiqueta le pondrías al
 encabezado? ¿Y si fuese un párrafo en vez de un encabezado? ¿Cuál sería la
 diferencia?
 
-##### Posible solución
+###### Posible solución
 
 ```html
 <!DOCTYPE html>
